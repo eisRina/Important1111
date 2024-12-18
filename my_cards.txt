@@ -1,0 +1,5 @@
+#'Имя';'стоимость';'тип';'под_тип';'сила';'выносливость'
+# 1 - строка - 1 карта
+
+'Cat Warrior';'1W';'Creature';'Warrior Cat';'2';'3'
+'Dog Warrior';'1G';'Creature';'Warrior Dog';'2';'3'
